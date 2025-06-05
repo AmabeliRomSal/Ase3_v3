@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Ase3</string>
+    <!-- main_activity /-->
+    <string name="iniciaSesion">Iniciar Sesión</string>
+    <string name="usuario">Ingresar Usuario</string>
+    <string name="contrasenia">Ingresar Contrasenia</string>
 </resources>
