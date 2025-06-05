@@ -25,14 +25,16 @@
         android:layout_height="wrap_content"
         android:hint="@string/usuario"
         android:textSize="20sp"
-        android:autofillHints="username"/>
+        android:autofillHints="username"
+        android:inputType="text"/>
 
     <EditText
         android:layout_marginTop="50sp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="@string/contrasenia"
-        android:textSize="20sp"/>
+        android:textSize="20sp"
+        android:inputType="numberPassword"/>
 
     <Button
         android:layout_marginTop="20dp"
